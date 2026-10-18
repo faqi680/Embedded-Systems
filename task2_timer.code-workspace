@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "task2_timer"
+		},
+		{
+			"name": "Debounce",
+			"path": "Debounce"
+		},
+		{
+			"name": "Debounce_task",
+			"path": "Debounce_task"
+		},
+		{
+			"name": "week_DHT",
+			"path": "week_DHT"
+		}
+	],
+	"settings": {}
+}

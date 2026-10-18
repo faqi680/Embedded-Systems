@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "D:/5th sem/web/lab1"
+		},
+		{
+			"name": "task-1_blink",
+			"path": "../task-1_blink"
+		},
+		{
+			"name": "week3_inteerrupt",
+			"path": "../week3_inteerrupt"
+		},
+		{
+			"name": "task2_timer",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab1"
+	}
+}
